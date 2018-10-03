@@ -2,7 +2,6 @@
  *    Copyright (c) The League of Amazing Programmers 2013-2017
  *    Level 1
  */
- 
 		// Create a HarryRunner class with a main method that:
 		// 1. makes harry potter
 		// 2. become invisible
